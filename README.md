@@ -9,14 +9,12 @@ Este repositório contém exemplos e exercícios realizados durante meu aprendiz
 - Estruturas de controle (`if`, `else`, `switch`)
 - Laços de repetição (`for`, `while`, `do while`)
 - Funções (`function`, arrow functions)
-- Manipulação do DOM
 - Eventos e interatividade
-- Introdução ao JSON
 - Uso básico de `console.log()` para depuração
 
 ## 🛠 Tecnologias Utilizadas
 
 - **JavaScript (Vanilla)**
 - **Node.js** (para testes no terminal)
-- **HTML & CSS** (para exemplos de manipulação do DOM)
+
 
