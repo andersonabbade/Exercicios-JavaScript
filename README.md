@@ -1,6 +1,22 @@
-O curso de JavaScript para Iniciantes foi fundamental para o meu desenvolvimento como programador.
-Através dele, pude
-Conhecer a sintaxe e os fundamentos da linguagem JavaScript.
-Aprender a manipular o DOM e criar páginas web interativas.
-Desenvolver habilidades de resolução de problemas e lógica de programação.
-Dar os primeiros passos na programação web e me preparar para aprender frameworks e bibliotecas mais avançadas.
+# 🚀 Conceitos Básicos de JavaScript
+
+Este repositório contém exemplos e exercícios realizados durante meu aprendizado dos conceitos básicos de JavaScript. O objetivo é consolidar o conhecimento adquirido e servir como referência para estudos futuros.
+
+## 📌 Conceitos Abordados
+
+- Declaração de variáveis (`var`, `let`, `const`)
+- Tipos de dados (strings, números, booleanos, arrays, objetos)
+- Estruturas de controle (`if`, `else`, `switch`)
+- Laços de repetição (`for`, `while`, `do while`)
+- Funções (`function`, arrow functions)
+- Manipulação do DOM
+- Eventos e interatividade
+- Introdução ao JSON
+- Uso básico de `console.log()` para depuração
+
+## 🛠 Tecnologias Utilizadas
+
+- **JavaScript (Vanilla)**
+- **Node.js** (para testes no terminal)
+- **HTML & CSS** (para exemplos de manipulação do DOM)
+
